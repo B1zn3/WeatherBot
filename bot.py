@@ -3,7 +3,7 @@ import json
 import telebot
 import requests
 
-bot = telebot.TeleBot('6534574574:AAEnEnYtD6L_ukl2jFRkBfEQJq764j9dZ4Y')
+bot = telebot.TeleBot('')
 API = '174b16e79ecc86b81c85c633f2e4ac48'
 
 
